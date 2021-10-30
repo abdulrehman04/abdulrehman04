@@ -1,16 +1,28 @@
 ### Hi there 👋
 
+I'm Abdul_Rehman, currentky a 7th semester CS student at Comsats Islamabad. I'm a Flutter app developer.
 
-**abdulrehman04/abdulrehman04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are a few details to get you started:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+- Expertise/ Experience
+-   Native Android (1 year)
+-   React Native (6 months)
+-   Flutter (2 years)
+-   Firebase (3 years)
+-   Java Swing (1 year)
+-   Java FX (1.5 years)
+- I’m currently working with:
+-   Rwazi.com as product lead
+-   As a freelancer on Fiverr.com
+-   As a developer with Orfik
+- I’m currently learning:
+-   GETX
+-   DJANGO
+-   IBM Watson
+-   Node
+-   Express
+- How to reach me:
+-   abdulrehman71254@gmail.com
+-   https://www.linkedin.com/in/abdul-rehman-5378a8200/
+-   https://www.fiverr.com/abdulrehman438
+-   
