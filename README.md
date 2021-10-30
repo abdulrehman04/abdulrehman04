@@ -11,16 +11,22 @@ Expertise/ Experience
 -   Firebase (3 years)
 -   Java Swing (1 year)
 -   Java FX (1.5 years)
+
+
 I’m currently working with:
 -   Rwazi.com as product lead
 -   As a freelancer on Fiverr.com
 -   As a developer with Orfik
+
+
 I’m currently learning:
 -   GETX
 -   DJANGO
 -   IBM Watson
 -   Node
 -   Express
+
+
 How to reach me:
 -   abdulrehman71254@gmail.com
 -   https://www.linkedin.com/in/abdul-rehman-5378a8200/
